@@ -7,8 +7,10 @@ public class MadlibsOfTheAmazon {
 
 		// Put this sentence in a pop up:
 		// If you find yourself having to cross a piranha-infested river, here's how to do it...
+		String chicken=JOptionPane.showInputDialog("If you find yourself having to cross a piranha-infested river, here's how to do it..."); 
 
 		// Get the user to enter an adjective
+		JOptionPane.showInputDialog("Enter an adjective");
 
 		// Get the user to enter a type of liquid
 
